@@ -6,3 +6,5 @@ second commit (purple)
 
 Third commit (master)
 Fourth commit (master)
+
+first commit (green)
